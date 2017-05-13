@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "mmod:items/item_reinforced_body"
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "normal": {
+      "model": "mmod:block_strengthened_diamond"
+    },
+    "inventory": {
+      "model": "mmod:block_strengthened_diamond",
+      "transform": "forge:default-block"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "normal": {
+      "model": "mmod:test_block"
+    },
+    "inventory": {
+      "model": "mmod:test_block"
+    }
+  }
+}

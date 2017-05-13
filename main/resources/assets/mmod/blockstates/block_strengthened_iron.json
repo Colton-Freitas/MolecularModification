@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "normal": {
+      "model": "mmod:block_strengthened_iron"
+    },
+    "inventory": {
+      "model": "mmod:block_strengthened_iron",
+      "transform": "forge:default-block"
+    }
+  }
+}

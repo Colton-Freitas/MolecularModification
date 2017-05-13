@@ -1,0 +1,12 @@
+{
+  "forge_marker": 1,
+  "variants": {
+    "normal": {
+      "model": "mmod:block_block_moleculizer"
+    },
+    "inventory": {
+      "model": "mmod:block_block_moleculizer",
+      "transform": "forge:default-block"
+    }
+  }
+}

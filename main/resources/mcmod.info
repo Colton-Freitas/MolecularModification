@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mmod",
+  "name": "Molecular Modification",
+  "description": "Modifying some Modular Things...",
+  "version": "0.0.7.011",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["#Colton#"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

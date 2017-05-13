@@ -1,0 +1,35 @@
+{
+  "textures": {
+    "top": "mmod:blocks/block_block_moleculizer_top",
+    "particle": "mmod:blocks/block_melting_table_side",
+    "side": "mmod:blocks/block_melting_table_side",
+    "north": "mmod:blocks/block_block_moleculizer_north",
+    "bottom": "mmod:blocks/block_melting_table_bottom"
+  },
+  "elements": [
+    {
+      "from": [0,0,0],
+      "to": [16, 16, 16],
+      "faces": {
+        "up": {
+          "texture": "#top"
+        },
+        "down": {
+          "texture": "#bottom"
+        },
+        "east": {
+          "texture": "#side"
+        },
+        "west": {
+          "texture": "#side"
+        },
+        "north": {
+          "texture": "#north"
+        },
+        "south": {
+          "texture": "#side"
+        }
+      }
+    }
+  ]
+}

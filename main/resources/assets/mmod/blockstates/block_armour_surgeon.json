@@ -1,0 +1,12 @@
+{
+  "forge_marker": 1,
+  "variants": {
+    "normal": {
+      "model": "mmod:block_armour_surgeon"
+    },
+    "inventory": {
+      "model": "mmod:block_armour_surgeon",
+      "transform": "forge:default-block"
+    }
+  }
+}

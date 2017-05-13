@@ -1,0 +1,12 @@
+{
+  "forge_marker": 1,
+  "variants": {
+    "normal": {
+      "model": "mmod:block_molecular_crafting_table"
+    },
+    "inventory": {
+      "model": "mmod:block_molecular_crafting_table",
+      "transform": "forge:default-block"
+    }
+  }
+}

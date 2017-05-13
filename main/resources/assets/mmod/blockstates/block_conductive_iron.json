@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "normal": {
+      "model": "mmod:conductive_iron_block"
+    },
+    "inventory": {
+      "model": "mmod:conductive_iron_block",
+      "transform": "forge:default-block"
+    }
+  }
+}
